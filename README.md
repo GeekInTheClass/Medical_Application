@@ -7,5 +7,5 @@
 도대체 무슨 차이가 있는 것인지, 각각을 어떻게 구별해야 하는지, 그리고 내 몸에 어떠한 영향을 미치는지 궁금한데
 누구한테 물어보는게 좋을까요?
 ## CT 와 MRI
-https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi01eG9haPRAhUDm5QKHfe_C6AQjRwIBw&url=https%3A%2F%2Fwww.healthcare.siemens.co.uk%2Fmagnetic-resonance-imaging%2F3t-mri-scanner%2Fmagnetom-skyra&psig=AFQjCNG-q_9vHaHIeG95yEdXLqCHykwkYw&ust=1483432134564139
 
+/Users/cscoi030/Desktop/MRI.jpg
