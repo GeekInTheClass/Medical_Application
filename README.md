@@ -7,8 +7,8 @@
 도대체 무슨 차이가 있는 것인지, 각각을 어떻게 구별해야 하는지, 그리고 내 몸에 어떠한 영향을 미치는지 궁금한데
 누구한테 물어보는게 좋을까요?
 ## CT 와 MRI
-> <img src=http://dbscthumb.phinf.naver.net/1983_000_1/20140820103801286_CTJVA2B91.jpg/988.jpg?type=m4500_4500_fst_n>
-> <img src = http://dbscthumb.phinf.naver.net/1983_000_1/20140822220032372_4FQLL4864.jpg/s01_012_i04.jpg?type=m4500_4500_fst>
+> <img src=http://www.kipp.com/xs_db/BILD_DB/2/www/750/26105-Gummipuffer-Typ-CT-tailliert-Rubber-metal-buffer-type-CT-tapered.jpg>
+> <img src = https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9B2QEshOC0XS-eAYrvRCq7MXnEiNBAHkiVD8LZajZkLXxarEC>
 CT란 Computed Tomography라는 영어 단어의 첫 글자만을 딴 이름이며, 질병을 진단하기 위해서 쓰이는 방사선학적 의학기술로, 우리말로는 컴퓨터 단층 촬영이라고 합니다.
 컴퓨터 단층 촬영은 방사선을 아주 빠른 속도로 인체에 통과시켜 횡단면 상을 얻어내는 촬영방법으로써 질병을 확진하는데 긴요하게 이용됩니다. 인체의 장기나 조직은 각각 조밀한 정도가 다르므로 우리 인체에 방사선을 통과시키면 각각의 장기나 조직의 밀도에 따라 통과하는 양도 각각 다르며, 만들어지는 영상(Image)도 다양하게 나타나게 됩니다.
 
