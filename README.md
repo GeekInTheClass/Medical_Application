@@ -9,8 +9,11 @@
 ## CT 와 MRI
 > <img src=http://www.kipp.com/xs_db/BILD_DB/2/www/750/26105-Gummipuffer-Typ-CT-tailliert-Rubber-metal-buffer-type-CT-tapered.jpg>
 > <img src = https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9B2QEshOC0XS-eAYrvRCq7MXnEiNBAHkiVD8LZajZkLXxarEC>
+<<<<<<< HEAD
 > <img src = http://www.radiologyinfo.org/gallery-items/images/child-ct-scan-preparation-111.jpg>
 > <img src = https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7QW2BvrH05dPXbr9F8NzClO8v6LidAnUelgkCHosPnWO_CwDeWw>
+> <img src = http://imgnews.naver.com/image/5319/2016/06/17/49997_7701_3757_99_20160617150415.jpg>
+>>>>>>> origin/master
 CT란 Computed Tomography라는 영어 단어의 첫 글자만을 딴 이름이며, 질병을 진단하기 위해서 쓰이는 방사선학적 의학기술로, 우리말로는 컴퓨터 단층 촬영이라고 합니다.
 컴퓨터 단층 촬영은 방사선을 아주 빠른 속도로 인체에 통과시켜 횡단면 상을 얻어내는 촬영방법으로써 질병을 확진하는데 긴요하게 이용됩니다. 인체의 장기나 조직은 각각 조밀한 정도가 다르므로 우리 인체에 방사선을 통과시키면 각각의 장기나 조직의 밀도에 따라 통과하는 양도 각각 다르며, 만들어지는 영상(Image)도 다양하게 나타나게 됩니다.
 
@@ -30,7 +33,8 @@ MRI란 Magnetic Resonance Image라는 영어 단어의 첫 글자만을 딴 이�
 이 검사의 원리는 지구가 보유한 자기장의 약 40,000배에 달하는 자기장에 환자를 눕히고, 자기장에 따라 변화하는 신체의 생화학적 정보를 통해 상을 얻는 것입니다. 자석은 약 900g 정도로 갑자기 손을 비틀수 있을 만큼 위력이 있지만 자기장은 신체에 아무런 해를 입히지 않습니다. 초음파 검사와 CT검사 후 더욱 정밀한 검사가 요구될 때 많이 시행합니다.
 
 ##MRI는 CT에 비해 다음과 같은 장점이 있습니다.
-
+> <img src= https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.com%2Fimage%2F076%2F2016%2F11%2F29%2F2016113001002454100168001_99_20161129065602.jpg&type=b400>
+>
 ①조직간의 대조도가 CT보다 훨씬 우수하여, 종양내부의 조직성분 특성의 감별이 가능합니다.
 ②횡단영상(Axial Image)뿐만 아니라 양질의 관상영상(Coronal Image)과 시상 영상(Sagittal Image)도 자유자재로 얻을 수 있기 때문에 최근에는 두 개강내 질환이나 척추질환 등에서는 Screening검사로도 종종 사용됩니다.
 ③방사선 피해가 전혀없고
